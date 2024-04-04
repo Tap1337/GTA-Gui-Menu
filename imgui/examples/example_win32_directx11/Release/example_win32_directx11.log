@@ -1,0 +1,162 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,1):
+  see previous definition of 'DXGI_STATUS_OCCLUDED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,1):
+  see previous definition of 'DXGI_STATUS_CLIPPED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,1):
+  see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58187,1):
+  see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58196,1):
+  see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58205,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58214,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58229,1):
+  see previous definition of 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58238,1):
+  see previous definition of 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58247,1):
+  see previous definition of 'DXGI_ERROR_MORE_DATA'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58256,1):
+  see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58265,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58274,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58284,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58293,1):
+  see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58303,1):
+  see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58312,1):
+  see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58322,1):
+  see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58331,1):
+  see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58340,1):
+  see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58350,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58359,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(105,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(107,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(108,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(110,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(284,164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(285,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(308,36): warning C4456: declaration of 'p' hides previous local declaration
+  C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(221,29):
+  see declaration of 'p'
+  
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(362,36): warning C4456: declaration of 'pos' hides previous local declaration
+  C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(220,31):
+  see declaration of 'pos'
+  
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(380,139): warning C4244: 'argument': conversion from 'float' to 'ImDrawFlags', possible loss of data
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(349,124): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(172,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\main.cpp(221,29): warning C4189: 'p': local variable is initialized but not referenced
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2502 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsynth.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(svg.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftmm.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftmm.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+  example_win32_directx11.vcxproj -> C:\Users\Admin\Downloads\imgui_[unknownc1heats.me]_\imgui\examples\example_win32_directx11\Release\example_win32_directx11.exe
