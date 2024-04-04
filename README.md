@@ -16,7 +16,7 @@ Welcome to the GTA GUI project developed in Visual Studio. This GUI provides a u
 ## Usage
 1. Launch the GUI application from Visual Studio.
 2. Customize settings as needed.
-3. Save changes and enjoy using FiveM with the enhanced GUI.
+3. Save changes and enjoy using GTA with the enhanced GUI.
 
 ## Preview
 ![Image](https://github.com/Tap1337/GTA-Gui-Menu/blob/main/images/pic.PNG)
