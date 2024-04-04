@@ -19,7 +19,7 @@ Welcome to the GTA GUI project developed in Visual Studio. This GUI provides a u
 3. Save changes and enjoy using FiveM with the enhanced GUI.
 
 ## Preview
-![Image](https://raw.githubusercontent.com/Tap1337/GTA-Gui-Menu/main/images/pic.png)
+![Image](https://github.com/Tap1337/GTA-Gui-Menu/blob/main/images/pic.PNG)
 
 ## Contributions
 Contributions are appreciated. Feel free to fork the repository, make improvements, and submit pull requests.
